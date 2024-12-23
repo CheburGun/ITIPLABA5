@@ -11,13 +11,13 @@ public class Laba5 {
         validatePassword("Password123");
 
         System.out.println("\nЗадание 3:");
-        findCapitalAfterLowercase("аХахахаа ччЧел ты рил крИнж");
+        findCapitalAfterLowercase("и дНём и ноОчью кООТ учёныЫй");
 
         System.out.println("\nЗадание 4:");
         validateIPAddress("192.168.1.1");
 
         System.out.println("\nЗадание 5:");
-        findWordsStartingWith("A etot tekst dlya testa Avatar aerobika arbuz", 'A');
+        findWordsStartingWith(" cat mouse fish car", 'c');
     }
 
     //задание 1
